@@ -13,5 +13,4 @@ selected the dimensional reduction technique to be appliedcheck the data types i
 The relevance of the dat is evaluated based on the the suitability to solve the problem statement which include:
 is the data enough?is the data accurate?
 
-## Data source:
-Data wqs provided from a csv file from relaible sources
+
